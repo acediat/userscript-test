@@ -5,9 +5,9 @@
 // @description:ru Описание, которое показывается пользователю, если локаль русская
 // @icon https://ichef.bbci.co.uk/news/976/cpsprodpb/16620/production/_91408619_55df76d5-2245-41c1-8031-07a4da3f313f.jpg.webp
 // @version 1.0.0.0
-// @downloadURL https://dl.myhomepage.org/myuserscript.user.js
-// @updateURL https://dl.myhomepage.org/myuserscript.meta.js
-// @homepageURL https://myhomepage.com/myuserscript
+// @downloadURL https://github.com/acediat/userscript-test/blob/master/script.user.js
+// @updateURL https://github.com/acediat/userscript-test/blob/master/script.user.js
+// @homepageURL https://github.com/acediat/userscript-test/
 // @include *
 // @exclude *://website.com/*
 // @grant свойство: настройки
