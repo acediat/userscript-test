@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name Test Script 3
+// @name Test Script 4
 // @name:ru Тестовый скрипт
 // @description Описание, которое показывается пользователю, если локаль английская или неизвестна
 // @description:ru Описание, которое показывается пользователю, если локаль русская
 // @icon https://ichef.bbci.co.uk/news/976/cpsprodpb/16620/production/_91408619_55df76d5-2245-41c1-8031-07a4da3f313f.jpg.webp
-// @version 3.1.0.4
+// @version 4.1.0.4
 // @downloadURL https://github.com/acediat/userscript-test/raw/master/script.user.js
 // @updateURL https://github.com/acediat/userscript-test/raw/master/script.user.js
 // @homepageURL https://github.com/acediat/userscript-test/
